@@ -1,0 +1,12 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+# Python / Node
+__pycache__/
+.venv/
+node_modules/
+# Segredos
+.env
+*.pem
